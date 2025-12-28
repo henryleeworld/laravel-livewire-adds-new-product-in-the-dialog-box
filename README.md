@@ -1,4 +1,4 @@
-# Laravel 11 Livewire 在互動視窗中進行新增產品
+# Laravel 12 Livewire 在互動視窗中進行新增產品
 
 在互動視窗中進行新增產品，一個好的產品名稱除了有助於提升品牌的競爭力之外，更能夠讓你的產品在眾多競爭對手當中脫穎而出，此外，對公司的競爭優勢及業績成長更是錦上添花。產品說明的關鍵，則在於要夠投契，可嘗試針對目標客群的問題去切入，以內容去產生共鳴及爭取交流機會。
 
@@ -35,8 +35,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/2AAikQW.png)
+![](https://i.imgur.com/aPYnYir.png)
 > 要激起消費者的購物慾望，或要令他們渴望擁有產品，首先要讓消費者對產品有具體的想像
 
-![](https://i.imgur.com/EQCchjn.png)
+![](https://i.imgur.com/r9Ap2FA.png)
 > 以簡單清晰的格式去呈現
